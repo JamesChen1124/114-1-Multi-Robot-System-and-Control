@@ -1,2 +1,2 @@
 # 114-1-Multi-Robot-System-and-Control
-NTUST-ME-MS-Courses
+NTUST-ME-MS-Course
